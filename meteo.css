@@ -3,12 +3,14 @@ table td{
     width: 100px;
     text-align: center;
     border: black solid thin;
+    background-color: skyblue;
 }
 table {
     border: black solid thin;
     margin: auto;
     margin-top: 100px;
-    border-collapse:collapse
+    border-collapse:collapse;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
 }
 
 button {
